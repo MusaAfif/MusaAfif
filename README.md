@@ -22,3 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=MusaAfif&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### 🐍 Snake Game
+![Snake animation](https://github.com/MusaAfif/MusaAfif/blob/output/snake.svg)
