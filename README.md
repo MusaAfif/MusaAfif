@@ -23,6 +23,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-### 🐍 Snake Game
-![Snake animation](https://github.com/MusaAfif/MusaAfif/blob/output/snake.svg)
