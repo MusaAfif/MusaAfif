@@ -1,16 +1,20 @@
-## Hi there 👋
+# Halo! 👋
+Saya Musa Afif, seorang pengembang perangkat lunak yang fokus pada pengembangan web dan aplikasi mobile.
 
-<!--
-**MusaAfif/MusaAfif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Teknologi yang saya kuasai
+- JavaScript
+- React
+- Node.js
+- Python
 
-Here are some ideas to get you started:
+## Proyek Saya
+- [Nama Proyek 1](link ke proyek)
+- [Nama Proyek 2](link ke proyek)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hubungi Saya
+- 📧 Email: musa.afif@example.com
+- 🌐 LinkedIn: [Profil LinkedIn](https://linkedin.com/in/musaafif)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Python](https://img.shields.io/badge/-Python-blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaAfif&show_icons=true&theme=radical)
